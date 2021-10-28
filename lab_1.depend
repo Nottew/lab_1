@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1635438985 source:c:\users\polya\desktop\kpi\cproj\lab_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<assert.h>
+	<string.h>
+	<unistd.h>
+
